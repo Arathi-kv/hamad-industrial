@@ -18040,7 +18040,7 @@ html.lenis body {
 .rs-services-four {
   position: relative;
   overflow-x: clip;
-  background: #212529;
+  background:#e9e2e2ab;
   z-index: 2;
 }
 .rs-services-four .rs-services-item {
@@ -18118,13 +18118,13 @@ html.lenis body {
 .rs-services-four .rs-services-count-number {
   font-size: 24px;
   font-weight: 700;
-  color: var(--rs-white);
+  color: var(--rs-black);
 }
 .rs-services-four .rs-services-title {
   color: var( --rs-theme-yellow);
 }
 .rs-services-four .rs-services-title a:hover {
-  color: var(--rs-white);
+  color: var(--rs-black);
 }
 .rs-services-four .rs-services-content-wrapper {
   margin: 40px 0px 0px;
